@@ -3,7 +3,9 @@
 /**
  * print_sign - prints +, 0 and -
  * @n: integer
- * Return: 1, 0, -
+ * Return: 1 if the number is greater than zero
+ * 0 if the number is zero
+ * -1 if the number less than zero
  */
 int print_sign(int n)
 {
