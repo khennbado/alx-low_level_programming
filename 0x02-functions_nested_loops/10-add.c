@@ -5,7 +5,7 @@
  * @j: number to add
  * Return: sum of two numbers
  */
-int add(int i, int j);
+int add(int i, int j)
 {
-	return (a + b);
+	return (i + j);
 }
