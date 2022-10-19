@@ -1,13 +1,14 @@
 #include "main.h"
 /**
  * add - adds two numbers
- * @num1: numbers to add
- * @num2: number to add
+ * @int: numbers to add
  * Return: sum of two numbers
  */
-int add(num1, num2)
+int add(int, int)
 {
 	int sum;
+	int num1;
+	int num2;
 
 	for (num1 = 0; num1 <= 9; num1++)
 	{
