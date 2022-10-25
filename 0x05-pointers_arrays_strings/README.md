@@ -1,0 +1,1 @@
+funtions that take pointers
